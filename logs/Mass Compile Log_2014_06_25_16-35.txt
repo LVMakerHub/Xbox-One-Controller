@@ -1,0 +1,4 @@
+#### Starting Mass Compile: Wed, Jun 25, 2014 4:35:41 PM
+  Directory: "C:\github\labviewhacker\LVH-Xbox-One-Controller"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\Indicator Test.vi
+#### Finished Mass Compile: Wed, Jun 25, 2014 4:35:41 PM
