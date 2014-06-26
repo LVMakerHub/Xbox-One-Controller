@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Indicator Test.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Xbox-One-Controller/Test Apps/Indicator Test.vi"/>
 		<Item Name="LVH-Xbox-One-Controller.lvlib" Type="Library" URL="../LVH-Xbox-One-Controller.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -23,7 +22,6 @@
 				<Item Name="Initialize Joystick.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/Initialize Joystick.vi"/>
 				<Item Name="joystickAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/joystickAcquire.vi"/>
 				<Item Name="keyboardAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/keyboardAcquire.vi"/>
-				<Item Name="LVH-Xbox-One-Controller.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Xbox-One-Controller/LVH-Xbox-One-Controller.lvlib"/>
 				<Item Name="mouseAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/mouseAcquire.vi"/>
 			</Item>
 			<Item Name="lvinput.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvinput.dll"/>

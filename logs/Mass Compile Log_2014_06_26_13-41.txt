@@ -1,0 +1,47 @@
+#### Starting Mass Compile: Thu, Jun 26, 2014 1:41:22 PM
+  Directory: "C:\github\labviewhacker\LVH-Xbox-One-Controller"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.vi
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\Indicator Test.vi
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\A.ctl
+Search failed to find "LVH-Xbox-One-Controller.lvlib:Thumbstick.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Thumbstick.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:Menu.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Menu.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:View.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\View.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:Right Bumper.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Right Bumper.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:Left Bumper.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Left Bumper.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:Y.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Y.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:X.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\X.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:B.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\B.ctl"
+Search failed to find "LVH-Xbox-One-Controller.lvlib:A.ctl" previously from "<vilib>:\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\A.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:All Buttons.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\All Buttons.ctl"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\B.ctl
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:All Buttons.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\All Buttons.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Controller.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.ctl"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Generic Button.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Left Bumper.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Menu.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Right Bumper.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Thumbstick.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\View.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\X.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Y.ctl
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:All Buttons.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\All Buttons.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Controller.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:All Buttons.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\All Buttons.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Controller.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Basic Main.vi"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\Basic Main.vi"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:All Buttons.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\All Buttons.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Controller.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.ctl"
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Basic Main.vi"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\Basic Main.vi"
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\A.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\B.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Generic Button.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Left Bumper.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Menu.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Right Bumper.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Thumbstick.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\View.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\X.ctl
+CompileFile: skipping C:\Program Files (x86)\National Instruments\LabVIEW 2011\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Y.ctl
+  ### Bad VI:    "LVH-Xbox-One-Controller.lvlib:Controller.ctl"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.ctl"
+  ### Bad VI:    "Indicator Test.vi"	Path="C:\github\labviewhacker\LVH-Xbox-One-Controller\LabVIEW\vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\Indicator Test.vi"
+#### Finished Mass Compile: Thu, Jun 26, 2014 1:41:38 PM

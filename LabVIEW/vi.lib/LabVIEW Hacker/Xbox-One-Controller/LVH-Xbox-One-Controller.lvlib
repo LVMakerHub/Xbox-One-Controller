@@ -6,17 +6,27 @@
 
 </Property>
 	<Item Name="Private" Type="Folder">
-		<Item Name="A.ctl" Type="VI" URL="../Private/Images/Buttons/A.ctl"/>
-		<Item Name="B.ctl" Type="VI" URL="../Private/Images/Buttons/B.ctl"/>
-		<Item Name="Buttons.ctl" Type="VI" URL="../Private/Images/Buttons/Buttons.ctl"/>
-		<Item Name="Generic Button.ctl" Type="VI" URL="../Private/Images/Buttons/Generic Button.ctl"/>
-		<Item Name="Left Bumper.ctl" Type="VI" URL="../Private/Images/Buttons/Left Bumper.ctl"/>
-		<Item Name="Menu.ctl" Type="VI" URL="../Private/Images/Buttons/Menu.ctl"/>
-		<Item Name="Right Bumper.ctl" Type="VI" URL="../Private/Images/Buttons/Right Bumper.ctl"/>
-		<Item Name="Thumbstick.ctl" Type="VI" URL="../Private/Images/Buttons/Thumbstick.ctl"/>
-		<Item Name="View.ctl" Type="VI" URL="../Private/Images/Buttons/View.ctl"/>
-		<Item Name="X.ctl" Type="VI" URL="../Private/Images/Buttons/X.ctl"/>
-		<Item Name="Y.ctl" Type="VI" URL="../Private/Images/Buttons/Y.ctl"/>
+		<Item Name="Type Defs" Type="Folder">
+			<Item Name="Indicators" Type="Folder">
+				<Item Name="A.ctl" Type="VI" URL="../Private/Type Defs/Indicators/A.ctl"/>
+				<Item Name="All Axis.ctl" Type="VI" URL="../Private/Type Defs/Indicators/All Axis.ctl"/>
+				<Item Name="All Buttons.ctl" Type="VI" URL="../Private/Type Defs/Indicators/All Buttons.ctl"/>
+				<Item Name="B.ctl" Type="VI" URL="../Private/Type Defs/Indicators/B.ctl"/>
+				<Item Name="Controller.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Controller.ctl"/>
+				<Item Name="DPad Enum.ctl" Type="VI" URL="../Private/Type Defs/Indicators/DPad Enum.ctl"/>
+				<Item Name="DPad.ctl" Type="VI" URL="../Private/Type Defs/Indicators/DPad.ctl"/>
+				<Item Name="Generic Button.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Generic Button.ctl"/>
+				<Item Name="Left Bumper.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Left Bumper.ctl"/>
+				<Item Name="Menu.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Menu.ctl"/>
+				<Item Name="Right Bumper.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Right Bumper.ctl"/>
+				<Item Name="Slider.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Slider.ctl"/>
+				<Item Name="Thumbstick.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Thumbstick.ctl"/>
+				<Item Name="Thumbstick_Analog.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Thumbstick_Analog.ctl"/>
+				<Item Name="View.ctl" Type="VI" URL="../Private/Type Defs/Indicators/View.ctl"/>
+				<Item Name="X.ctl" Type="VI" URL="../Private/Type Defs/Indicators/X.ctl"/>
+				<Item Name="Y.ctl" Type="VI" URL="../Private/Type Defs/Indicators/Y.ctl"/>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
@@ -24,5 +34,6 @@
 	<Item Name="Test Apps" Type="Folder">
 		<Item Name="Async Worker.vi" Type="VI" URL="../Test Apps/Async Worker.vi"/>
 		<Item Name="Basic Main.vi" Type="VI" URL="../Test Apps/Basic Main.vi"/>
+		<Item Name="Indicator Test.vi" Type="VI" URL="../Test Apps/Indicator Test.vi"/>
 	</Item>
 </Library>
