@@ -1,3 +1,0 @@
-#### Starting Mass Compile: Thu, Jun 26, 2014 4:53:08 PM
-  Directory: "C:\github\labviewhacker\LVH-Xbox-One-Controller"
-#### Finished Mass Compile: Thu, Jun 26, 2014 4:53:09 PM

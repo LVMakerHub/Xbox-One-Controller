@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-27 14:17:00" Modified_Date="2014-06-27 14:55:36" Creator="samkristoff" Comments="" ID="ec69b3071f5ac5e01b43968f446166dd">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-27 14:17:00" Modified_Date="2014-06-27 16:06:29" Creator="samkristoff" Comments="" ID="27ea21cfd2b25c1952df74a3a4cea3a0">
   <Library_General_Settings>
     <Package_File_Name>LVH_XBONE</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\LVH-Builds\LVH-Xbox-One-Controller</Library_Output_Folder>
@@ -228,7 +228,7 @@
         <Path>vi.lib</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E1B39F135ECAE64D172F6278BEBEE06B</GUID>
+      <GUID>1EA7A717D8610BE8DA9909AC917BA215</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -263,7 +263,7 @@
         <Path>examples\LabVIEW Hacker</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C9BAE4CA0AE01C051B6749A40B37BC32</GUID>
+      <GUID>23C97AAC53878A32ED98DB5C7DF00A2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -298,7 +298,7 @@
         <Path>vi.lib\LabVIEW Hacker</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2DC5E292C6566DEDBB754D5E212C3B90</GUID>
+      <GUID>9F12022695220332782681A5484F0591</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -333,7 +333,7 @@
         <Path>examples\LabVIEW Hacker\Xbox-One-Controller</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A4CF7130C928648200D1D399E9FFFC1B</GUID>
+      <GUID>093D7955A2DA313766E7E5F7491A0681</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -396,7 +396,7 @@
         <Path>examples\LabVIEW Hacker\Xbox-One-Controller\Xbox One Controller - Polling Read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9C6EBF5380E7D2B1A7E3B1C3AC69803C</GUID>
+      <GUID>1215F469EE9E77858D41B4D5A837D8C5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -431,7 +431,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>461C91B8B3166133005ECBC4B2E394B9</GUID>
+      <GUID>501A9F9A797BDFD87DB789ECCEA7624F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -494,7 +494,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>415067FBAAD795DE54756BE1C9FF72E4</GUID>
+      <GUID>7754B707D47F0BFE836F5B407B0B9591</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -585,7 +585,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Xbox Controller Worker.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>29338E2678473BFC7C36B830A59528C5</GUID>
+      <GUID>C08B3169F18C2284BD9B954459FF817F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -676,7 +676,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Public\Read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C461F23E479469B7358DFF22A812C720</GUID>
+      <GUID>E27EE5FD12BC4CEE13953179AB672FA7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -753,7 +753,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Test Apps\User App.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6E2BAB2762C547DB8F2E20A6AE639823</GUID>
+      <GUID>BA4DEB3AEB7F9882FEFD179DA6777188</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>7</Parent_Palette_Index>
@@ -788,7 +788,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA487A2EFEDEB882911D332E53AD81B2</GUID>
+      <GUID>D4F36B6DFC1D57AB47E5B93886F64286</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>10</Parent_Palette_Index>
@@ -823,7 +823,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Controller.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>15CA6512DDBF4E2D81B9A199150C8F95</GUID>
+      <GUID>E9F7C20CA21E67C9D3271FCCADC4E4D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -858,7 +858,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Public\Advanced\Xbox Event Structure.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>96FCEE7DFD16C567041380DD30FAE813</GUID>
+      <GUID>0D64DD100E3EBD51447058D807A18D0E</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -893,7 +893,7 @@
         <Path>vi.lib</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6953A8E81E253737358C05F5BD840724</GUID>
+      <GUID>A9236E3BF4787F659CA835362003852C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -928,7 +928,7 @@
         <Path>vi.lib\LabVIEW Hacker</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>85283680013D19277AACBCCB05D89468</GUID>
+      <GUID>AA294402A9C7E240D19F7AA186BD7E9D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -963,7 +963,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38543F51F6415A2A4FEE620F7E537B74</GUID>
+      <GUID>C89F00496CC51CB701FBE9236B136A16</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -998,7 +998,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5DAFF0FBCA53949D1E5DA96CA028B30C</GUID>
+      <GUID>EA1BFC2A5A7E7266A6D21FF78A93E4FC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1033,7 +1033,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FA64CA6D2CBCDAA0BCC812DE17E44CDC</GUID>
+      <GUID>0A483F8777884B678CCE584E719D1FF9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1124,7 +1124,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Xbox One Controller Ref.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>663CC3D6B49985FDF82F5F809F0DB007</GUID>
+      <GUID>FA2FF7B58ADF9A9B5466EB750AFA3EF6</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1397,7 +1397,7 @@
         <Path>vi.lib\LabVIEW Hacker\Xbox-One-Controller\Private\Type Defs\Indicators\Y.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3DF466160CBB571BE81B6C1D09B6C6DE</GUID>
+      <GUID>A6523B9BCA72BB6C3C24EE16F6F21273</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
