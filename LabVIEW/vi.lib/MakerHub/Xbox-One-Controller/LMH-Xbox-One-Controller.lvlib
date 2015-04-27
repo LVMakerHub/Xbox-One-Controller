@@ -46,6 +46,8 @@
 	<Item Name="Public" Type="Folder">
 		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
 		<Item Name="Find Controllers.vi" Type="VI" URL="../Public/Find Controllers.vi"/>
+		<Item Name="Open by Index.vi" Type="VI" URL="../Public/Open by Index.vi"/>
+		<Item Name="Open First Controller.vi" Type="VI" URL="../Public/Open First Controller.vi"/>
 		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
 		<Item Name="Read.vi" Type="VI" URL="../Public/Read.vi"/>
 	</Item>
